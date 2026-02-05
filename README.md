@@ -2,6 +2,7 @@
 **Grow Your Financial Future, One Season at a Time**
 
 👉 **Live Web App:** https://farm-fortungrow.lovable.app/
+🎥 **Watch Demo (YouTube Shorts):** https://youtube.com/shorts/nKUKNANvhIA?feature=share
 
 ArthVratta is a **farming simulation game that teaches financial literacy through gameplay**, not lectures.  
 Players manage a virtual farm while learning savings, insurance, debt, diversification, and risk management — by experiencing consequences over time.
